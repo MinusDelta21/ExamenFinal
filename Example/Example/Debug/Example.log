@@ -1,0 +1,32 @@
+﻿  Win32Framework.cpp
+  UtilsGL.cpp
+  TriangleGL.cpp
+  Timer.cpp
+  Textures.cpp
+  BaseDriver.cpp
+  PrimitiveManager.cpp
+c:\users\santiago\desktop\proyectograficas-santiagotoll\graficas 1 -santiagotoll\example\example\primitivemanager.h(8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  PrimitiveInstance.cpp
+c:\users\santiago\desktop\proyectograficas-santiagotoll\graficas 1 -santiagotoll\example\example\primitiveinstance.cpp(10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\santiago\desktop\proyectograficas-santiagotoll\graficas 1 -santiagotoll\example\example\primitiveinstance.cpp(17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\santiago\desktop\proyectograficas-santiagotoll\graficas 1 -santiagotoll\example\example\primitiveinstance.cpp(23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\santiago\desktop\proyectograficas-santiagotoll\graficas 1 -santiagotoll\example\example\primitiveinstance.cpp(41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\santiago\desktop\proyectograficas-santiagotoll\graficas 1 -santiagotoll\example\example\primitiveinstance.cpp(49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\santiago\desktop\proyectograficas-santiagotoll\graficas 1 -santiagotoll\example\example\primitiveinstance.cpp(57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  MeshGl.cpp
+c:\users\santiago\desktop\proyectograficas-santiagotoll\graficas 1 -santiagotoll\example\example\meshgl.cpp(144): warning C4018: '<': signed/unsigned mismatch
+c:\users\santiago\desktop\proyectograficas-santiagotoll\graficas 1 -santiagotoll\example\example\meshgl.cpp(148): warning C4018: '<': signed/unsigned mismatch
+c:\users\santiago\desktop\proyectograficas-santiagotoll\graficas 1 -santiagotoll\example\example\meshgl.cpp(183): warning C4018: '<': signed/unsigned mismatch
+  Matrix4D.cpp
+c:\users\santiago\desktop\proyectograficas-santiagotoll\graficas 1 -santiagotoll\example\example\matrix4d.cpp(261): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\santiago\desktop\proyectograficas-santiagotoll\graficas 1 -santiagotoll\example\example\matrix4d.cpp(260): warning C4101: 'y': unreferenced local variable
+c:\users\santiago\desktop\proyectograficas-santiagotoll\graficas 1 -santiagotoll\example\example\matrix4d.cpp(260): warning C4101: 'x': unreferenced local variable
+c:\users\santiago\desktop\proyectograficas-santiagotoll\graficas 1 -santiagotoll\example\example\matrix4d.cpp(272): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\santiago\desktop\proyectograficas-santiagotoll\graficas 1 -santiagotoll\example\example\matrix4d.cpp(428): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  InputManager.cpp
+  GLDriver.cpp
+  CubeGL.cpp
+  Core.cpp
+  Camera.cpp
+  Generating Code...
+  Example.vcxproj -> C:\Users\Santiago\Desktop\ProyectoGraficas-SantiagoToll\Graficas 1 -SantiagoToll\Example\Debug\Framework.lib

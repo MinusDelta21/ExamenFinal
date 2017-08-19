@@ -1,0 +1,7 @@
+﻿  TestApp.cpp
+c:\users\santiago\desktop\proyectograficas-santiagotoll\graficas 1 -santiagotoll\example\example\primitivemanager.h(8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Application.cpp
+c:\users\santiago\desktop\proyectograficas-santiagotoll\graficas 1 -santiagotoll\example\example\primitivemanager.h(8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  TestApp.vcxproj -> C:\Users\Santiago\Desktop\ProyectoGraficas-SantiagoToll\Graficas 1 -SantiagoToll\Example\bin\TestApp.exe
+  TestApp.vcxproj -> C:\Users\Santiago\Desktop\ProyectoGraficas-SantiagoToll\Graficas 1 -SantiagoToll\Example\bin\TestApp.pdb (Full PDB)
